@@ -13,7 +13,7 @@ int main() {
                 answer5 = "system software",
                 question6 = "Software used by users; programs people normally use",
                 answer6 = "application software",
-                question7 = "Language close to the level of human-readability",
+                question7 = "Language close to the level of computer",
                 answer7_1 = "low-level", answer7_2 = "low level",
                 question8 = "Language close to the level of human-readability",
                 answer8_1 = "high-level", answer8_2 = "high level",
